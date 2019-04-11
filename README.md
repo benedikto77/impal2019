@@ -6,3 +6,5 @@
 Teknologi yang akan digunakan dalam Tugas Besar :
 1. MySQL
 2. PHP 
+
+Aplikasi Restoran berbasis web.
